@@ -4,9 +4,9 @@
 - 🧑‍💻 My focus as of now is Java due to my academic requirements. See [here](https://github.com/kyleacuna/kyle_javapractice)
 - 💞️ Single
 - 📫 business.kyleacuna@gmail.com
-
-- BBcode programmer on [osu!](https://osu.ppy.sh/home) for VARIANT Communinity.
-- Java beginner programmer for my academic requirement in school.
+<br><br>
+☆ BBcode programmer on [osu!](https://osu.ppy.sh/home) for VARIANT Communinity. <br>
+☆ Java beginner programmer for my academic requirement in school.
 
 <!---
 kyleacuna/kyleacuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

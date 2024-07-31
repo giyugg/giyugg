@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyle Acuna
-- 🏫 Studies at AMA IT - Grade 11 TVL ICT
+- 🏫 Studies at AMA IT - Grade 12 TVL ICT
 - 🌱 I’m currently learning HTML and CSS. Will expand my learning on JS, MySQL, and PHP in the future.
 - 🧑‍💻 My focus as of now is Java due to my academic requirements. See [here](https://github.com/kyleacuna/kyle_javapractice)
 - 💞️ Single

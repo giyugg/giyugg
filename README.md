@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently using GitHub for personal projects, <br>🎒 School projects (such as creating java files for testing) and,<br>🎮 to give issues on osu! when I encounter a bug<br><br>🌱 My university is focused mainly on Java. Still learning tho-<br>💬 Bulacan State University<br>⚡ 1st Year Bachelor of Science in Information Systems
+🔭 I’m currently using GitHub for personal projects, <br>🎒 School projects (such as creating java files for testing) and,<br>🎮 to give issues on osu! when I encounter a bug<br><br>🌱 My university is focused mainly on Java. Still learning tho-<br>🏫 Bulacan State University<br>⚡ 1st Year Bachelor of Science in Information Systems
 
 
 ## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/giyugg_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GiyuGG_)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/giyugg_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GiyuGG_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/giyu.gg)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)

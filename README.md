@@ -39,8 +39,9 @@
 💳 Payment<br>
 [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#) [![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#) [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#) [![Payoneer](https://img.shields.io/badge/Payoneer-FF4800?logo=payoneer&logoColor=fff)](#) [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#) [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#) [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#) 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=giyugg&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
 ![](https://github-readme-stats.vercel.app/api?username=giyugg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-contributor-stats.vercel.app/api?username=giyugg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---

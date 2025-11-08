@@ -3,6 +3,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=giyugg&theme=dark&hide_border=false)
 
 # 💫 About Me:
+📓 Motto in life: Who the fuck pushes test dev in prod? "Me. Our users are the beta testers lol."<br>
 🔭 I’m currently using GitHub for personal projects, <br>🎒 School projects (such as creating java files for testing) and,<br>🎮 to give issues on osu! when I encounter a bug<br><br>🌱 My university is focused mainly on Java. Still learning tho-<br>🏫 Bulacan State University<br>⚡ 1st Year Bachelor of Science in Information Systems
 
 

@@ -7,7 +7,7 @@
 🔭 I’m currently using GitHub for personal projects, <br>🎒 School projects (such as creating java files for testing) and,<br>🎮 to give issues on osu! when I encounter a bug<br><br>🌱 My university is focused mainly on Java. Still learning tho-<br>🏫 Bulacan State University<br>⚡ 1st Year Bachelor of Science in Information Systems
 
 
-🌐 Socials<br>
+🌐 Socials [check my website too. please im begging you! giyugg.org or click here](https://giyugg.org)<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/giyu.gg) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/giyugg) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:business.kyleacuna@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giyugg_) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kyle-acuna-164b92280) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Kylxx_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/giyugg_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GiyuGG_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@giyugg_vrnt)
 
 💻 Tech Stack<br>

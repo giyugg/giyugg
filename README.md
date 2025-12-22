@@ -19,11 +19,8 @@ I'm still learning, still building, and always curious.
 
 ## 🧰 Tech Stack
 
-**Languages**
-- Java
-- Python
-- C++
-- HTML, CSS, JavaScript (learning)
+**Languages**<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg"/>
 
 **Tools & Platforms**<br>
 [![My Skills](https://skillicons.dev/icons?i=idea,clion,pycharm,webstorm,vscode,git)](https://skillicons.dev)
@@ -60,3 +57,4 @@ Status: ⚠️ Still in progress, but public site is viewable. Source code is al
 ---
 
 ⭐ *I love pushing to prod without testing, thats all.*
+

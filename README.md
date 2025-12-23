@@ -31,7 +31,7 @@ I'm still learning, still building, and always curious.
 
 Here are some projects I'm working on or planning to improve:
 
-- 🔹 [**Java Parking System**](https://github.com/giyugg/cc103_intellij/blob/main/src/BSIS1BG2Group1.java) – in partial fulfillment for our Programming Lab 1.<br>
+- 🔹 [**Java Parking System**](https://github.com/giyugg/cc103_intellij/blob/main/src/BSIS1BG2Group1.java) – in partial fulfillment for our Computer Programming 1 (CC 103).<br>
 Status: 🟢 305/350 - Main issue is Night Fee is not working.<br><br>
 - 🔹 [**Island Voyagers Inn**](https://www.islandvoyagersinn.com/) – for the company I've been working on.<br>
 Status: ⚠️ Still in progress, but public site is viewable.<br>

@@ -35,7 +35,7 @@ Here are some projects I'm working on or planning to improve:
 Status: 🟢 305/350 - Main issue is Night Fee is not working.<br><br>
 - 🔹 [**Island Voyagers Inn**](https://www.islandvoyagersinn.com/) – for the company I've been working on.<br>
 Status: ⚠️ Still in progress, but public site is viewable.<br>
-    - Without `www`, the site is not loading.<br>
+    - With and without `www`, site is now finally working.<br>
     - Still thinking on my future plans for dependent site booking rather than the current situation (which is email to book).
     - Powered by Cloudflare and Google Sites.<br><br>
 - 🔹 [**Personal GitHub Website**](https://giyugg.org/) – experimenting and learning in public.<br>

@@ -20,7 +20,9 @@ I'm still learning, still building, and always curious.
 ## 🧰 Tech Stack
 
 **Languages**<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg"/><br>
+**Streak**<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=giyugg&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 **Tools & Platforms**<br>
 [![My Skills](https://skillicons.dev/icons?i=idea,clion,pycharm,webstorm,vscode,git)](https://skillicons.dev)

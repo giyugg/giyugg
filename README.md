@@ -48,6 +48,14 @@ Status: ⚠️ Still in progress, but public site is viewable. Source code is al
     - Powered by Cloudflare, Google Workspace, and Github Pages.
 
 > More projects coming soon as I continue learning and building 🚧
+---
+
+## 🔮 Future Projects
+Here are some projects that I am planning to do in the future while I'm still sharpening my skills in development and programming:
+- 🔹 [**Self Attendance Checker**](https://giyugg.org/SelfAttendanceChecker/)<br>
+Status: ⚠️ UI/UX in progress, features still being scoped.<br>
+    - Goal: Let students privately track their own attendance, so if a professor marks them absent, they have their own record to check and explain why. Feature of adding their supporting document (such as excuse letter, medical certificate, etc...) will be also added in feature for stronger validation.<br>
+    - Planned feature: A shared table showing your schedule alongside your friends' schedules, so you can see at a glance who's free — no need to message or call someone who might be in class to avoid calling them during class hours.
 
 ---
 

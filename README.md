@@ -1,70 +1,37 @@
 # 👋 Hi, I'm Kyle Acuña!
 
-I'm an **Information Systems student** at **Bulacan State University** with a growing passion for **software development** and technology.<br>
-I can't completely say that I am very good at programming, but I am still learning it bit-by-bit.<br>
+I'm an **Information Systems student** at **Bulacan State University**. I enjoy building useful tools, designing thoughtful interfaces, and learning through hands-on projects.
 
+## 💻 Languages, Frameworks & Platforms I'm Familiar With
 
-I'm still learning, still building, and always curious.
+**Java is my main programming focus at university** and the language I'm spending the most time learning and applying. I'm also familiar with **TypeScript** and **React** for building web interfaces, and I use **Supabase** and **Vercel** in my projects.
 
----
+![Java, TypeScript, React, Supabase, and Vercel](https://skillicons.dev/icons?i=java,ts,react,supabase,vercel)
 
-## 🚀 What I'm Learning & Working On
+## 🛠️ Tools & Platforms
 
-- Learning Java, Python, and C++ and trying to master HTML, CSS, and JavaScript (although I don't know anything on JavaScript yet...)<br>
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,html,css,js)](https://skillicons.dev)
-- After mastering those six, I want to learn TypeScript, PHP, NPM, NodeJS, Go, Figma, .NET, C and C#.<br>
-[![My Skills](https://skillicons.dev/icons?i=typescript,php,npm,nodejs,go,figma,dotnet,c,cs)](https://skillicons.dev)
-
----
-
-## 🧰 Tech Stack
-
-**Languages**<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg"/><br>
-**Streak**<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=giyugg&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-**Tools & Platforms**<br>
-[![My Skills](https://skillicons.dev/icons?i=idea,clion,pycharm,webstorm,vscode,git)](https://skillicons.dev)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,figma" alt="IntelliJ IDEA, Visual Studio Code, Git, and Figma" height="48">
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Desktop" width="48" height="48">
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Antigravity" width="48" height="48">
+  <img src="https://openai.com/apple-icon.png" alt="Codex" width="48" height="48">
+</p>
 
 ## 📂 Portfolio
 
-Here are some projects I'm working on or planning to improve:
+### [Attendly](https://github.com/giyugg/AttendanceTrackerForSection)
 
-- 🔹 [**Java Parking System**](https://github.com/giyugg/cc103_intellij/blob/main/src/BSIS1BG2Group1.java) – in partial fulfillment for our Computer Programming 1 (CC 103).<br>
-Status: 🟢 305/350 - Main issue is Night Fee is not working.<br><br>
-- 🔹 [**Island Voyagers Inn**](https://www.islandvoyagersinn.com/) – for the company I've been working on.<br>
-Status: ⚠️ Still in progress, but public site is viewable.<br>
-    - With and without `www`, site is now finally working.<br>
-    - Still thinking on my future plans for dependent site booking rather than the current situation (which is email to book).
-    - Powered by Cloudflare and Google Sites.<br><br>
-- 🔹 [**Personal GitHub Website**](https://giyugg.org/) – experimenting and learning in public.<br>
-Status: ⚠️ Still in progress, but public site is viewable. Source code is also [available here](https://github.com/giyugg/giyugg.github.io).<br>
-    - With and without `www`, site is working.<br>
-    - Also have an email address powered by Google Workspace (you can email me at giyu@giyugg.org).<br>
-    - Website is created using pure HTML, CSS, and JS. Tutorial made by [Codehal](https://youtu.be/KqqoL9G7j-c).<br>
-    - Powered by Cloudflare, Google Workspace, and Github Pages.
+Attendly grew out of my original **Self Attendance Checker** idea: a private way for students to track their attendance, review discrepancies, and keep supporting documents such as excuse letters or medical certificates. I serve as the project's **Main AI Developer**.
 
-> More projects coming soon as I continue learning and building 🚧
----
+### [Escapture](https://github.com/shnflrsc/escapture)
 
-## 🔮 Future Projects
-Here are some projects that I am planning to do in the future while I'm still sharpening my skills in development and programming:
-- 🔹 [**Self Attendance Checker**](https://giyugg.org/SelfAttendanceChecker/)<br>
-Status: ⚠️ UI/UX in progress, features still being scoped.<br>
-    - Goal: Let students privately track their own attendance, so if a professor marks them absent, they have their own record to check and explain why. Feature of adding their supporting document (such as excuse letter, medical certificate, etc...) will be also added in feature for stronger validation.<br>
-    - Planned feature: A shared table showing your schedule alongside your friends' schedules, so you can see at a glance who's free — no need to message or call someone who might be in class to avoid calling them during class hours.
+We created Escapture for **Hexcore Labs EdTek Con 2026 x Mission: LearnPossible2!** I worked on **UI/UX design**. It was our first hackathon, and although we didn't reach the podium, it gave us the chance to build and present something together.
 
----
+Our team: [**Hezekiah Dionisio** (Team Leader)](https://github.com/zeke-dotcom), [**Darl Shanen Floresca** (Developer)](https://github.com/shnflrsc), **Kyle A. Acuña** (UI/UX Design), and [**Juan Rafael Camasis** (Professor Coach)](https://github.com/SeigiMondragon).
 
 ## 📫 Let's Connect
 
-- GitHub: [https://github.com/giyugg](https://github.com/giyugg)<br>
-- LinkedIn: [https://www.linkedin.com/in/kyleacunaxd](https://www.linkedin.com/in/kyleacunaxd/)
-
----
+- [GitHub](https://github.com/giyugg)
+- [LinkedIn](https://www.linkedin.com/in/kyleacunaxd/)
 
 ⭐ *I love pushing to prod without testing, thats all.*
-

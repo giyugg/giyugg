@@ -37,3 +37,19 @@ I'm an **Information Systems student** at **Bulacan State University**. I enjoy 
 - giyu@giyugg.org
 
 ⭐ *I love pushing to prod without testing, thats all.*
+
+## 🤓 Useless performative stats if you even care:
+<table>
+  <tr>
+    <td align="center">
+      <strong>Languages</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Streak</strong><br>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=giyugg&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j" width="495"/>
+      </a>
+    </td>
+  </tr>
+</table>

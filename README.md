@@ -14,24 +14,26 @@ I'm an **Information Systems student** at **Bulacan State University**. I enjoy 
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,figma" alt="IntelliJ IDEA, Visual Studio Code, Git, and Figma" height="48">
   <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Desktop" width="48" height="48">
   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Antigravity" width="48" height="48">
-  <img src="https://openai.com/apple-icon.png" alt="Codex" width="48" height="48">
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" alt="Codex" width="48" height="48">
 </p>
 
 ## 📂 Portfolio
 
-### [Attendly](https://github.com/giyugg/AttendanceTrackerForSection)
+### 🔹[Attendly (giyugg/AttendanceTrackerForSection)](https://github.com/giyugg/AttendanceTrackerForSection)
 
-Attendly grew out of my original **Self Attendance Checker** idea: a private way for students to track their attendance, review discrepancies, and keep supporting documents such as excuse letters or medical certificates. I serve as the project's **Main AI Developer**.
+- Attendly grew out of my original **Self Attendance Checker** idea: a private way for students to track their attendance, review discrepancies, and keep supporting documents such as excuse letters or medical certificates. I serve as the project's **Main AI Developer**.
 
-### [Escapture](https://github.com/shnflrsc/escapture)
+### 🔹[Escapture (shnflrsc/escapture)](https://github.com/shnflrsc/escapture)
 
-We created Escapture for **Hexcore Labs EdTek Con 2026 x Mission: LearnPossible2!** I worked on **UI/UX design**. It was our first hackathon, and although we didn't reach the podium, it gave us the chance to build and present something together.
+- We created Escapture for **Hexcore Labs EdTek Con 2026 x Mission: LearnPossible2!** I worked on **UI/UX design**. It was our first hackathon, and although we didn't reach the podium, it gave us the chance to build and present something together.
 
-Our team: [**Hezekiah Dionisio** (Team Leader)](https://github.com/zeke-dotcom), [**Darl Shanen Floresca** (Developer)](https://github.com/shnflrsc), **Kyle A. Acuña** (UI/UX Design), and [**Juan Rafael Camasis** (Professor Coach)](https://github.com/SeigiMondragon).
+- Our team: [**Hezekiah Dionisio** (Team Leader)](https://github.com/zeke-dotcom), [**Darl Shanen Floresca** (Developer)](https://github.com/shnflrsc), **Kyle A. Acuña** (UI/UX Design), and [**Juan Rafael Camasis** (Professor Coach)](https://github.com/SeigiMondragon).
 
 ## 📫 Let's Connect
 
 - [GitHub](https://github.com/giyugg)
 - [LinkedIn](https://www.linkedin.com/in/kyleacunaxd/)
+- [My website](https://giyugg.org)
+- giyu@giyugg.org
 
 ⭐ *I love pushing to prod without testing, thats all.*

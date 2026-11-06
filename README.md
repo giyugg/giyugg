@@ -22,6 +22,7 @@ I'm an **Information Systems student** at **Bulacan State University**. I enjoy 
 ### 🔹[Attendly (giyugg/AttendanceTrackerForSection)](https://github.com/giyugg/AttendanceTrackerForSection)
 
 - Attendly grew out of my original **Self Attendance Checker** idea: a private way for students to track their attendance, review discrepancies, and keep supporting documents such as excuse letters or medical certificates. I serve as the project's **Main AI Developer**.
+- NOTE: Not in active development anymore due to the system not being used. Will enhance this application someday.
 
 ### 🔹[Escapture (shnflrsc/escapture)](https://github.com/shnflrsc/escapture)
 

@@ -44,7 +44,7 @@ I'm an **Information Systems student** at **Bulacan State University**. I enjoy 
   <tr>
     <td align="center">
       <strong>Languages</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg" width="300"/>
+      <img src="**[https://github-readme-stats.vercel.app/api/top-langs/?username=giyugg](https://github-stats-extended.vercel.app/api/top-langs?username=giyugg&layout=donut&hide_title=true&langs_count=5&disable_animations=true&theme=dark_github)**" width="300"/>
     </td>
     <td align="center">
       <strong>Streak</strong><br>
